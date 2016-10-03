@@ -1,4 +1,10 @@
-CreeperOS
+CreeperOS: Main Manifest 
+===========
+
+CreeperOS Version: 1.0 - Lollipop 5.1.1
+===========
+
+Hello Everyone!!!
 ===========
 
 Getting Started
@@ -11,3 +17,8 @@ To initialize your local repository using the CreeperOS trees, use a command lik
 Then to sync up:
 
     repo sync --force-sync --force-broken
+
+
+Visit out web page to more!!! :D
+
+    https://creeperos.github.io/
