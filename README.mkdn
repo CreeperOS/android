@@ -22,3 +22,30 @@ Then to sync up:
 Visit out web page to more!!! :D
 
     https://creeperos.github.io/
+
+
+Español
+===========
+
+CreeperOS: Manifest Principal
+===========
+
+Versión de CreeperOS: 1.0 - Lollipop 5.1.1
+
+Hola a Todos!!!
+===========
+
+Iniciando
+--------------
+
+Para inicial tu repositorio local usando la rama/source de CreeperOS, usa un comando como este:
+
+    repo init -u git://github.com/CreeperOS/android.git -b OS-lp
+    
+Sincroniza tu source:
+
+    repo sync --force-sync --force-broken
+    
+Visita nuestra página web para más!! :D
+
+    https://creeperos.github.io/
